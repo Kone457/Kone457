@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8848ff&height=120&section=header"/>
+
 
 ## Hi there 👋
 
@@ -10,4 +10,3 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kone457&repo=Shizuka-AI&theme=cobalt" />
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
