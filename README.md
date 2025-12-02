@@ -6,12 +6,6 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kone457&theme=tokyonight&hide_border=true)
 
----
-
-## ✨ Extra
-| 👀 Visitas  | 🏆 Trofeos |
-|----------------------|------------|
-| ![Profile Views](https://komarev.com/ghpvc/?username=Kone457&color=blue&style=flat-square) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Kone457&theme=tokyonight&no-frame=true&margin-w=10) 
 
 ---
 
@@ -23,3 +17,10 @@
 
 ## 📈 Actividad reciente
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kone457&theme=tokyonight)
+
+---
+
+## ✨ Extra
+| 👀 Visitas  | 🏆 Trofeos |
+|----------------------|------------|
+| ![Profile Views](https://komarev.com/ghpvc/?username=Kone457&color=blue&style=flat-square) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Kone457&theme=tokyonight&no-frame=true&margin-w=10) 
