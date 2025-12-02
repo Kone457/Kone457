@@ -4,11 +4,7 @@
 
 ## 📊 GitHub Stats
 
-| 🔥 Métrica | 📈 Vista |
-|------------|----------|
-| ⭐ Actividad General | ![Stats](https://github-readme-stats.vercel.app/api?username=Kone457&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) |
-| 📆 Racha de Contribuciones | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kone457&theme=tokyonight&hide_border=true) |
-| 💻 Lenguajes Más Usados | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kone457&layout=compact&theme=tokyonight&hide_border=true) |
+|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kone457&theme=tokyonight&hide_border=true)
 
 ---
 
