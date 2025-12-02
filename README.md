@@ -4,12 +4,15 @@
 
 ## 📊 GitHub Stats
 
-| Stat | Preview |
-|------|---------|
-| General Stats | ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kone457&show_icons=true&theme=radical) |
-| Streak | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kone457&theme=radical) |
-| Top Languages | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kone457&layout=compact&theme=radical) |
+| 🔥 Métrica | 📈 Vista |
+|------------|----------|
+| ⭐ Actividad General | ![Stats](https://github-readme-stats.vercel.app/api?username=Kone457&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) |
+| 📆 Racha de Contribuciones | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kone457&theme=tokyonight&hide_border=true) |
+| 💻 Lenguajes Más Usados | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kone457&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kone457&color=blue&style=flat-square)
+## ✨ Extra
+| 👀 Visitas al Perfil | 🏆 Trofeos |
+|----------------------|------------|
+| ![Profile Views](https://komarev.com/ghpvc/?username=Kone457&color=blue&style=flat-square) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Kone457&theme=tokyonight&no-frame=true&margin-w=10) |
