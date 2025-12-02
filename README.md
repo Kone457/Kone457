@@ -1,7 +1,19 @@
 ## Hi there 👋  
 Welcome to my profile ✨
 
-![](https://files.catbox.moe/yvs7mp.jpg)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Kone457">
+        <img src="https://files.catbox.moe/abofe1.jpg" height="250px">
+      </a>
+    </td>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=🌟+Welcome+to+my+profile+🌟" alt="Typing SVG">
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats
 
