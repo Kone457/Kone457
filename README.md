@@ -8,11 +8,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-[![Shizuka-AI](https://github-readme-stats.vercel.app/api/pin/?username=Kone457&repo=repo-name&theme=tokyonight)](https://github.com/Kone457/Shizuka-AI)
-
----
-
 ## ✨ Extra
 | 👀 Visitas  | 🏆 Trofeos |
 |----------------------|------------|
