@@ -1,6 +1,8 @@
 ## Hi there 👋  
 Welcome to my profile ✨
 
+---
+
 <table>
   <tr>
     <td>
@@ -14,6 +16,7 @@ Welcome to my profile ✨
   </tr>
 </table>
 
+---
 
 ## 📊 GitHub Stats
 
