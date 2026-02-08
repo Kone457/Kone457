@@ -30,6 +30,7 @@ Welcome to my profile ✨
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![VibeCoding](https://img.shields.io/badge/Vibe%20Coding-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
